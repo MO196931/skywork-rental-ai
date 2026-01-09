@@ -1,0 +1,56 @@
+# Dependências Node
+node_modules/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.production
+
+# Logs
+logs
+*.log
+
+# Arquivos temporários
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup
+*.bak
+*.backup
+
+# Arquivos compilados
+dist/
+build/
+
+# Cache
+.cache/
+.nyc_output/
+
+# Coverage
+coverage/
+
+# Documentação gerada
+docs/_book/
+
+# Arquivos de sessão
+*.session.dill
+*.assets/
+
+# Notebooks Jupyter
+*.ipynb_checkpoints/
+
+# Arquivos de teste
+test-results/
